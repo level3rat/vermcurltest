@@ -1,6 +1,26 @@
 body {
-  background-color: #777;
+  background-color: #181818;
   overflow-x: hidden;
   width: 100%;
   height:100%;
+  font-size: 2REM;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box {
+  background-color: #282828;
+  width: 46%;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  display:flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
 }
