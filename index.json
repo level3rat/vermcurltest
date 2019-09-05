@@ -1,0 +1,18 @@
+[
+
+	{
+    "id":"1",
+    "uri":"/1.json"
+  },
+
+  {
+    "id":"2",
+    "text":"/2.json"
+  },
+
+  {
+    "id":"lorem",
+    "uri":"/lorem.json"
+  }
+
+]
